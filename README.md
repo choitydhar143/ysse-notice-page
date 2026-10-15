@@ -15,7 +15,26 @@ The project focuses on creating a user-friendly interface with semantic HTML, mo
 
 Visit the deployed website:
 
-[YSSE Notice Board - Live Website](YOUR_DEPLOYED_URL)
+[YSSE Notice Board - Live Website](https://choitydhar143.github.io/ysse-notice-page/)
+
+## GitHub Repository
+
+[View Source Code on GitHub](https://github.com/choitydhar143/ysse-notice-page)
+
+## Screenshots
+
+### Homepage
+![YSSE Notice Board Homepage](screenshots/notice-page.png)
+
+### Latest Notices
+![Notice Cards](screenshots/notice-cards.png)
+
+### Notice Summary
+![Notice Summary Table](screenshots/notice-summary.png)
+
+### Footer
+![Website Footer](screenshots/notice-footer.png)
+
 
 ## Technologies Used
 
@@ -54,23 +73,6 @@ ysse-notice-page/
     └── notice-footer.png
 ```
 
-## Screenshots
-
-### 1. Homepage
-
-![YSSE Notice Board Homepage](screenshots/notice-page.png)
-
-### 2. Latest Notices and Search
-
-![Notice Cards and Search Filters](screenshots/notice-cards.png)
-
-### 3. Notice Summary Table
-
-![Notice Summary Table](screenshots/notice-summary.png)
-
-### 4. Footer and Useful Links
-
-![Footer and Useful Links](screenshots/notice-footer.png)
 
 ## How to Run Locally
 
